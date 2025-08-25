@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* micro-animaciones accesibles */
+.tap:active {
+  transform: translateY(1px);
+}
